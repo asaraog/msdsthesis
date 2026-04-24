@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# Zenodo dataset (too large for git)
+Kato_et_al.zip
+Kato_et_al/
