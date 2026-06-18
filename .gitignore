@@ -2,7 +2,9 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+.vscode/
 
-# Zenodo dataset (too large for git)
+# Large data files
 Kato_et_al.zip
 Kato_et_al/
+ds002185-dowload/
